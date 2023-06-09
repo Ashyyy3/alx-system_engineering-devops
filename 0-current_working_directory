@@ -1,1 +1,2 @@
-realpath $(pwd)
+#!/bin/bash
+pwd
